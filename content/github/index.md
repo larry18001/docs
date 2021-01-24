@@ -1,4 +1,4 @@
----
+https://jobs.googleapis.com/v4/{parent=projects/*/tenants/*}/jobs:batchCreate---
 title: GitHub.com
 redirect_from:
   - /articles/
